@@ -7,7 +7,7 @@ except ImportError:
     from distutils.core import setup
 
 Version = 0.1
-setup ( name='django-rest_mockup',
+setup ( name='django_rest_mockup',
         version = Version,
         install_requires='jsonfield',
         description = "TODO",
